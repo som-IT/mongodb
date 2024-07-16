@@ -1,0 +1,38 @@
+[
+    {
+        "course_code": "BIO101",
+        "teacher_id": "Guled Jamac",
+        "classroom": "Room 201",
+        "schedule": {
+          "day": "Monday",
+          "time": "10:00 AM - 11:30 AM"
+        }
+      },
+      {
+        "course_code": "ENG102",
+        "teacher_id": "T002",
+        "classroom": "Room 202",
+        "schedule": {
+          "day": "Tuesday",
+          "time": "02:00 PM - 03:30 PM"
+        }
+      },
+      {
+        "course_code": "SCI103",
+        "teacher_id": "T003",
+        "classroom": "Room 203",
+        "schedule": {
+          "day": "Wednesday",
+          "time": "09:00 AM - 10:30 AM"
+        }
+      },
+      {
+        "course_code": "HIST104",
+        "teacher_id": "T004",
+        "classroom": "Room 204",
+        "schedule": {
+          "day": "Thursday",
+          "time": "11:00 AM - 12:30 PM"
+        }
+      }
+]
